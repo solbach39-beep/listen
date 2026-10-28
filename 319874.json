@@ -1,0 +1,46 @@
+{
+  "playlists": [
+    {
+      "name": "Gabi 5.27",
+      "type": "xtream",
+      "url": "http://line.dino.ws",
+      "username": "53fb2bf52c",
+      "password": "6649e07b756f",
+      "germanOnly": true,
+      "active": true
+    },
+    {
+      "name": "6 Club",
+      "type": "stalker",
+      "url": "http:///clubxxc.com:8080/c",
+      "macAddress": "00:1a:79:4d:06:fb",
+      "germanOnly": true,
+      "active": true
+    },
+    {
+      "name": "Avare unendlich VPN",
+      "type": "stalker",
+      "url": "http://avare.kingtv.pw",
+      "macAddress": "00:1a:79:c9:69:86",
+      "germanOnly": true,
+      "active": true
+    },
+    {
+      "name": "3 Avare",
+      "type": "stalker",
+      "url": "http://avare.kingtv.pw",
+      "macAddress": "00:1a:79:42:1c:8d",
+      "germanOnly": true,
+      "active": true
+    },
+    {
+      "name": "Blechbuechse",
+      "type": "xtream",
+      "url": "https://gateway.jellybuechse.org",
+      "username": "Jürgen-Solbach",
+      "password": "EbxxqLHk2Y",
+      "germanOnly": true,
+      "active": true
+    }
+  ]
+}
