@@ -1,0 +1,33 @@
+{
+  "playlists": [
+    {
+      "name": "1 Gabi 2027",
+      "type": "xtream",
+      "url": "http://line.dino.ws",
+      "username": "53fb2bf52c",
+      "password": "6649e07b756f",
+      "key": "Gabi",
+      "germanOnly": true,
+      "active": true
+    },
+    {
+      "name": "2 Blechbuechse",
+      "type": "xtream",
+      "url": "https://gateway.jellybuechse.org",
+      "username": "Jürgen-Solbach",
+      "password": "EbxxqLHk2Y",
+      "key": "Blechbuechse",
+      "germanOnly": true,
+      "active": true
+    },
+    {
+      "name": "3 Kellerbox",
+      "type": "xtream",
+      "url": "http://tv.jellybuechse.org",
+      "username": "avare",
+      "password": "020970",
+      "germanOnly": true,
+      "active": true
+    }
+  ]
+}
