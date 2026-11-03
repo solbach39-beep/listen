@@ -1,8 +1,8 @@
 {
-  "name": "3 Avare",
+  "name": "Test 1 VPN",
   "type": "stalker",
-  "url": "http://avare.kingtv.pw/c/",
-  "macAddress": "00:1A:79:42:1C:8D",
+  "url": "http://line.hey-ott.net:80/c/",
+  "macAddress": "00:1A:79:17:0F:39",
   "germanOnly": true,
   "active": true
 }
