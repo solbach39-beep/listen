@@ -1,13 +1,8 @@
 {
-  "action": "remove",
-  "playlists": [
-    {
-      "name": "6 Club",
-      "type": "stalker",
-      "url": "http://clubxxc.com:8080/c",
-      "macAddress": "00:1a:79:4d:06:fb",
-      "germanOnly": true,
-      "active": true
-    }
-  ]
+  "name": "6 Club",
+  "type": "stalker",
+  "url": "http://clubxxc.com:8080/c",
+  "macAddress": "00:1a:79:4d:06:fb",
+  "germanOnly": true,
+  "active": true
 }
