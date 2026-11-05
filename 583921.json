@@ -1,8 +1,13 @@
 {
-  "name": "Test 1 VPN",
-  "type": "stalker",
-  "url": "http://line.hey-ott.net:80/c/",
-  "macAddress": "00:1A:79:17:0F:39",
-  "germanOnly": true,
-  "active": true
+  "action": "remove",
+  "playlists": [
+    {
+      "name": "6 Club",
+      "type": "stalker",
+      "url": "http://clubxxc.com:8080/c",
+      "macAddress": "00:1a:79:4d:06:fb",
+      "germanOnly": true,
+      "active": true
+    }
+  ]
 }
